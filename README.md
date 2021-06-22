@@ -14,6 +14,6 @@ discover the 5 houses of the secret house-after-house key.
              
 ## To run the code :
    1) Make sure that the python file and the wep.out file in the same location .
-   2) Write in you Cmd  " python code.py "
+   2) Write in your cmd  " python code.py "
    
 ![output](https://user-images.githubusercontent.com/57844508/122950177-ec633300-d384-11eb-9d6b-6e4ccc3ab546.png)
