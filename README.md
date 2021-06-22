@@ -9,7 +9,7 @@ byte of each visible message is AA (at base 16.) This information can be used to
 discover the 5 houses of the secret house-after-house key.
 
 ## Input file :
-   wep.out : This file contains 000,500 WEP messages encrypted using the RC4 cipher.
+   wep.out : This file contains 500,000 WEP messages encrypted using the RC4 cipher.
              The length of each encrypted message is 7 bytes: 3 bytes of the boot vector (IV) followed by 4 bytes.
              
 ## To run the code :
